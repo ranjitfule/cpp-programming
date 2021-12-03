@@ -13,7 +13,7 @@
 
 TEST_CASE("Ex1", "[example]")
 {
-    REQUIRE(add(1,1) == 2);
+    REQUIRE(fact(5) == 120);
 }
 
 // =====================
