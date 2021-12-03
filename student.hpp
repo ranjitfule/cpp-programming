@@ -11,6 +11,12 @@ int mul(int a, int b);
 // ===============
 // implementations
 
+int fact(int x)
+{
+   // Add your code
+   return 0; //TODO FIX
+}
+
 int add(int a, int b)
 {
    return 0; // TODO: fix
